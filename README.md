@@ -28,11 +28,4 @@
 - Protected API keys
 - Clean and maintainable codebase
 
-## Screenshots
-
-## Future Development
-
-## Demo
-
-[Link to Deployed Application]()
 
